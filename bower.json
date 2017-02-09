@@ -1,0 +1,25 @@
+{
+  "name": "purescript-rate-limit",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TinkerTravel/purescript-rate-limit.git"
+  },
+  "dependencies": {
+    "purescript-eff": "^2.0.0",
+    "purescript-refs": "^2.0.0",
+    "purescript-foldable-traversable": "^2.2.0",
+    "purescript-lists": "^3.4.0",
+    "purescript-maps": "^2.1.1",
+    "purescript-maybe": "^2.0.1",
+    "purescript-sets": "^2.0.0",
+    "purescript-datetime": "^2.0.0",
+    "purescript-tuples": "^3.1.0",
+    "purescript-prelude": "^2.3.0"
+  },
+  "devDependencies": {
+    "purescript-test-unit": "^10.1.0",
+    "purescript-aff": "^2.0.2",
+    "purescript-parallel": "^2.1.0"
+  }
+}
